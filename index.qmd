@@ -1,11 +1,11 @@
 ---
 title: "Ada Chibueze"
-image: github/IMG_4541.jpg
+image: Pictures/IMG_4541.jpg
 toc: false
 about:
-  template: broadside
-  image-shape: rounded
-  image-width: 10em
+  template: trestles
+  image-shape: rectangle
+  image-width: 50em 
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/ada-chibueze/
@@ -21,12 +21,12 @@ Thank you for stopping by and checking out my page! My name is Ada Chibueze and 
 
 # Education
 
-**BA in Environmental Studies** (2021-2025) \| University of California, Santa Barbara
+**BA in Environmental Studies** (2021-2025) | University of California, Santa Barbara
 
 # Experience
 
-**Incoming Chase Leadership Development Analyst** (June 2024 - August) \| New York, New York
+**Incoming Chase Leadership Development Analyst** (June 2024 - August) | New York, New York
 
-**African Disaporic Cultural Resource Center Peer Mentor** (September 2023 - June 2024) \| University of California, Santa Barbara
+**African Disaporic Cultural Resource Center Peer Mentor** (September 2023 - June 2024) | University of California, Santa Barbara
 
-**Sustainable Food Services Fellow** (September 2023 - June 2024) \| University of California, Santa Barbara
+**Sustainable Food Services Fellow** (September 2023 - June 2024) | University of California, Santa Barbara
