@@ -12,7 +12,10 @@ website:
 
 format:
   html:
+    mainfont: Georgia
     theme: Litera
+    fontcolor: "#696765"
+    linkcolor: "#7E7C7B"
     css: styles.css
     toc: true
     page-layout: full

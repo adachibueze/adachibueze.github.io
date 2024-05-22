@@ -1,11 +1,11 @@
 ---
 title: "Ada Chibueze"
-image: Users/adachibueze/Pictures/gfi-10.jpg
+image: gfi-10.jpg
 toc: false
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 50em 
+  image-width: 20em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/ada-chibueze/
