@@ -7,11 +7,14 @@ about:
   image-shape: rectangle
   image-width: 20em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/ada-chibueze/
-    - text: Github
+    - icon: github
+      text: Github
       href: https://github.com/adachibueze
-    - text: Email
+    - icon: inbox
+      text: Email
       href: mailto:adachibueze@ucsb.edu
 ---
 
