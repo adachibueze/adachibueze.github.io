@@ -1,5 +1,11 @@
 ---
 title: "Ada Chibueze"
+image: /Users/adachibueze/Pictures/IMG_4541.jpeg
+toc: false
+about:
+  template: broadside
+  image-shape: rounded
+  image-width: 20em
 ---
 
 # Welcome!
