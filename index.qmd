@@ -1,6 +1,6 @@
 ---
 title: "Ada Chibueze"
-image: Pictures/IMG_4541.jpg
+image: Users/adachibueze/Pictures/gfi-10.jpg
 toc: false
 about:
   template: trestles
