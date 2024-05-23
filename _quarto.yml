@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - interest.qmd
   page-footer:
     background: light
     left: Copyright 2024, Ada Chibueze
