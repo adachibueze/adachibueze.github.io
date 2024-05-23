@@ -4,7 +4,7 @@ image: gfi-10.jpg
 toc: false
 about:
   template: trestles
-  image-shape: rectangle
+  image-shape: rounded 
   image-width: 20em
   links:
     - icon: linkedin
@@ -18,7 +18,7 @@ about:
       href: mailto:adachibueze@ucsb.edu
 ---
 
-# Welcome!
+# Welcome
 
 Thank you for stopping by and checking out my page! My name is Ada Chibueze and it is my pleasure to introduce myself to you!
 
