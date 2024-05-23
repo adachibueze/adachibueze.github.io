@@ -1,5 +1,28 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
+::: {layout="\[\[1, 1, 1, 1\]\]"} 
+![](EBONI_1.jpg){group="ME"
+description="Black Womxn's Appreciation Night, Spring 2024."}
 
+![](IMG_1009.jpeg){group="SBC"
+description="AdCRC Peer Mentors promoting EOP resources, Fall 2023."}
+
+![](IMG_4643.jpeg){group="SBC"
+description="Kale and roasted sweet potatoe salad with a dill tzatziki sauce"}
+
+![](IMG_3412.jpeg){group="SBC"
+description="Picture of the Eiffel Tower, Summer 2023."}
+
+:::
+
+Hi there! My name is Ada Chibueze. I am currently a 3rd year attending the University of California, Santa Barbara (UCSB). I am majoring in Environmental Studies (Bachelor's of Arts) with a concentration in Geography!
+
+During my time here I have prioritized being involved and active in my community and other great organizations. I currently serve as a Educational Opportunity Program (EOP) peer mentor for the African Diasporic Cultural Resource Center (AdCRC) and I am a Sustainable Food Services Fellow under the Sustainability Office. I have also had the pleasure of undertaking the role of President for E.B.O.N.I alongside my fellow chairs Ceion Banks and Towela Phiri. Our organization works to improve the social and mental welfare of black womxn on campus through community building activities!
+
+While this past summer, I had the privilege of conducting research at UC Berkeley under the Center for Occupational and Environmental Health. During my internship, I researched various volatile organic compounds prevalent in San Joaquin Valley - Fresno area.
+
+Outside of my academics and involvements, I am a huge foodie. So during my free time I love to experiment in the kitchen and try new recipes from different cuisines! I also value spending time with my close friends and family and traveling to new places near and far.
+
+This quarter, I have had the opportunity to take ENV S 193 DS, which has allowed me to improve my coding and understanding of data science. At the start of the quarter, I felt quite nervous due to my limited experience coding in R. However, with each week I have been able to grow more confident in my coding ability and undertake different projects (this website included!) to showcase my new found skillset.
