@@ -10,13 +10,12 @@ website:
         text: Home
       - about.qmd
   page-footer:
-    background: dark
+    background: light
     left: Copyright 2024, Ada Chibueze
 
 format:
   html:
     theme: 
-      - Literia
       - styles.scss
     mainfont: Merriweather
     fontcolor: $brown
