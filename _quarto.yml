@@ -5,20 +5,22 @@ project:
 website:
   title: "Ada Chibueze"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer:
+    background: light
+    left: Copyright 2024, Ada Chibueze
 
 format:
   html:
-    mainfont: Georgia
-    theme: Litera
-    fontcolor: "#696765"
-    linkcolor: "#7E7C7B"
+    theme: 
+      - styles.scss
+    mainfont: Merriweather
+    fontcolor: $brown
     css: styles.css
     toc: true
     page-layout: full
-
 editor: visual
 
