@@ -2,8 +2,10 @@
 title: "About Me"
 ---
 
+------------------------------------------------------------------------
+
 ::: {layout="\[\[1, 1, 1, 1\]\]"} 
-![](EBONI_1.jpg){group="ME"
+![](EBONI_1.jpg){group="SBC"
 description="Black Womxn's Appreciation Night, Spring 2024."}
 
 ![](IMG_1009.jpeg){group="SBC"
@@ -16,6 +18,8 @@ description="Kale and roasted sweet potatoe salad with a dill tzatziki sauce"}
 description="Picture of the Eiffel Tower, Summer 2023."}
 
 :::
+
+------------------------------------------------------------------------
 
 Hi there! My name is Ada Chibueze. I am currently a 3rd year attending the University of California, Santa Barbara (UCSB). I am majoring in Environmental Studies (Bachelor's of Arts) with a concentration in Geography!
 
