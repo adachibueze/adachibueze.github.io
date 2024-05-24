@@ -5,16 +5,16 @@ title: "About Me"
 ------------------------------------------------------------------------
 
 ::: {layout="\[\[1, 1, 1, 1\]\]"} 
-![](EBONI_1.jpg){group="SBC"
+![](images/EBONI_1.jpg){group="SBC"
 description="Black Womxn's Appreciation Night, Spring 2024."}
 
-![](IMG_1009.jpeg){group="SBC"
+![](images/IMG_1009.jpeg){group="SBC"
 description="AdCRC Peer Mentors promoting EOP resources, Fall 2023."}
 
-![](IMG_4643.jpeg){group="SBC"
+![](images/IMG_4643.jpeg){group="SBC"
 description="Kale and roasted sweet potatoe salad with a dill tzatziki sauce"}
 
-![](IMG_3412.jpeg){group="SBC"
+![](images/IMG_3412.jpeg){group="SBC"
 description="Picture of the Eiffel Tower, Summer 2023."}
 
 :::
