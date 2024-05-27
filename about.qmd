@@ -1,5 +1,14 @@
 ---
 title: "About Me"
+toc: true
+filters:
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
+  css-class: "my-css-class"
 ---
 
 ------------------------------------------------------------------------
