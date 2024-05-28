@@ -8,11 +8,18 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
-      - interest.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: interest.qmd
+        text: Interests
+      - href: reports/resume.pdf
+        text: CV
+        target: _blank
   page-footer:
     background: light
+
 format:
   html:
     theme: 

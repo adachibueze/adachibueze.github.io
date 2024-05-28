@@ -13,7 +13,7 @@ lightbox:
 
 ------------------------------------------------------------------------
 
-::: {layout="\[\[1, 1, 1, 1\]\]"} 
+::: {layout="[[1, 1, 1, 1]]"} 
 ![](images/EBONI_1.jpg){group="SBC"
 description="Black Womxn's Appreciation Night, Spring 2024."}
 
