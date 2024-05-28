@@ -14,49 +14,46 @@ lightbox:
 
 ### Expansion of Cultural Foods
 
---------------------------------------------------------------------
+---
 
-::: {layout="[[1, 1], [1]]"} 
+::: {layout="[[1, 1]]"} 
 
-![](images-SFSS/image_91.JPG){group="FF"
-description="Survey Collection, Spring 2024."}
+![](images-SFSS/image_91.JPG){group="FF" description="Survey Collection, Spring 2024."  class="space-right"}
 
-![](images-SFSS/image_92.JPG){group="FF"
-description="Survey Collection, Spring 2024."}
-
-![](images-SFSS/image_93.JPG){group="FF"
-description="Survey Collection, Spring 2024."}
+![](images-SFSS/image_92.JPG){group="FF" description="Survey Collection, Spring 2024."}
 
 :::
 
 Growing up with two Nigerian parents, food was essential for me to form important cultural bonds and understand the depths of my identity. In addition, growing up in the Bay Area made me well accustomed to the diverse food cuisines. However, since attending UCSB I have a decline both in my mental and physical well-being due to significant cultural food detachment. These results are not just intrinsic to me, multiple studies have shown that increased cultural food access plays an important part in feelings of community and bonding. As a result, this year I work restlessly as a Sustainable Food Services Intern to educate my peers on cultural food access and try to develop partnerships with stakeholders, such as AS Food Bank on why they should diversify their food selection. In addition, I conducted research on the student body by collecting survey data to understand specific food preferences in the scope of this project!
 
-Use the link to read about some of my survey summary findings! [PDF](report/.summary_findings.pdf)
+Read some of my summary finding below!
+
+![](reports/summary_findings.pdf){width=100% height=700px}
 
 ### Black Womxn's Appreciation Night
 
-------------------------------------------------------------------------
+---
 
-::: {layout="\[\[1, 1, 1\]\]"} 
+::: {layout="[[1, 1, 1]]"} 
 
-![](images-appreciation/070.jpg){group="BW"
-description="Black Womxn's Appreciation Night, Spring 2024."}
+![](images-appreciation/070.jpg){group="BW" description="Black Womxn's Appreciation Night, Spring 2024."}
 
-![](images-appreciation/062.jpg){group="BW"
-description="Black Womxn's Appreciation Night, Spring 2024."}
+![](images-appreciation/062.jpg){group="BW" description="Black Womxn's Appreciation Night, Spring 2024."}
 
-![](images-appreciation/028.jpg){group="BW"
-description="Black Womxn's Appreciation Night, Spring 2024."}
+![](images-appreciation/028.jpg){group="BW" description="Black Womxn's Appreciation Night, Spring 2024."}
 
 :::
 
-In the early 1990s Akanake was founded on the UCSB campus. This organization was an important social network grounded on solidarity and community building within the black womxn community. However, due to the pandemic the organization ended in 2021. In an effort to make this important organization active gain, me along with my fellow officers Ceion Banks and Towela Phiri worked to recharter it at UCSB. This year, we launched a signature event of Akanke's Black Womxn's Appreciation Night! This night consisted of uplighting and celbrating everything related in wxmen and was attended by students, faculty, staff, and alumni!
+In the early 1990s Akanake was founded on the UCSB campus. This organization was an important social network grounded on solidarity and community building within the black womxn community. However, due to the pandemic the organization ended in 2021. In an effort to make this important organization active gain, me along with my fellow officers Ceion Banks and Towela Phiri worked to recharter it at UCSB. This year, we launched a signature event of Akanke's Black Womxn's Appreciation Night! This night consisted of uplifting and celebrating everything related to black wxmen. The event was attended by UCSB students, faculty, staff, and alumni!
 
-###   SPHERE:San Joaquin Valley Pollution and Health Environmental Research
+### SPHERE: San Joaquin Valley Pollution and Health Environmental Research
 
------------------------------------------------------------------------------
+---
 
-During the Summer of 2023 I conducted research at UC Berkeley under the Center for Occupational and Environmental Health. I had the privilege of working under Rosemary Castornia to contribute my findings towards the SPHERE: San Joaquin Valley (SJV) Pollution and Health Environmental Research study! During this time, I conducted literature review into the scope of air monitoring done at the SJV area and expanding my understanding of the various air monitoring techniques for both home and outside studies.
+During the Summer of 2023, I conducted research at UC Berkeley under the Center for Occupational and Environmental Health. I had the privilege of working under Rosemary Castornia to contribute my findings towards the SPHERE: San Joaquin Valley (SJV) Pollution and Health Environmental Research study! During this time, I conducted a literature review into the scope of air monitoring done at the SJV area and expanded my understanding of the various air monitoring techniques for both home and outside studies.
 
-Use the link below to look over my final presentation for the study!
+Read over my final presentation for the study below!
+
+![](reports/SJV.pdf){width=100% height=600px}
+
 
