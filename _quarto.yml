@@ -13,8 +13,6 @@ website:
       - interest.qmd
   page-footer:
     background: light
-    left: Copyright 2024, Ada Chibueze
-
 format:
   html:
     theme: 
