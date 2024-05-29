@@ -1,7 +1,5 @@
 /*-- scss:defaults --*/
 
-
-//Import font-size
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 // Colors
@@ -22,4 +20,8 @@ $navbar-hl: $dark-brown; // highlight color when hovering over navbar links
 $body-bg: $off-white; // page background 
 $body-color: $off-white; // page text 
 $footer-bg: $ash-grey;
+$link-color: $dark-brown;
+
+$code-bg: $dark-brown; // inline code background color
+$code-color: $dark-brown; // inline code text color
 
