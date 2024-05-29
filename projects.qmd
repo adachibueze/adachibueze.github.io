@@ -1,5 +1,6 @@
 ---
-title: "Projects"
+title: "Projects: So What Have I Been Working On?"
+toc: true
 filters:
   - lightbox
 lightbox:
@@ -10,7 +11,8 @@ lightbox:
   css-class: "my-css-class"
 ---
 
-## So what have I been working on...
+
+
 
 ### Expansion of Cultural Foods
 
