@@ -1,6 +1,6 @@
 ---
 title: "Projects: So What Have I Been Working On?"
-toc: true
+toc: false
 filters:
   - lightbox
 lightbox:
