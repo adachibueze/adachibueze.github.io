@@ -2,6 +2,8 @@
 title: "Ada Chibueze"
 image: images/gfi-10.jpg
 toc: false
+theme: 
+      - styles.scss
 about:
   template: trestles
   image-shape: rounded 

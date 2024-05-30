@@ -1,3 +1,24 @@
 ---
-title: "Interests"
+title: "Interests: Learn More About Me!"
+toc: false
 ---
+
+## Music
+
+------------------------------------------------------------------------
+
+Music remains a core aspect of my life! Browse below to hear a few of my favorite songs heading into the summer time!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3uPwFdTfjX5sO2q4wloddq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+------------------------------------------------------------------------
+
+## Traveling
+
+------------------------------------------------------------------------
+
+## Cooking
+
+------------------------------------------------------------------------

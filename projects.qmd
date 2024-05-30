@@ -10,9 +10,7 @@ lightbox:
   loop: true
   css-class: "my-css-class"
 ---
-
-
-
+---
 
 ### Expansion of Cultural Foods
 
@@ -31,6 +29,7 @@ Growing up with two Nigerian parents, food was essential for me to form importan
 Read some of my summary finding below!
 
 ![](reports/summary_findings.pdf){width=100% height=700px}
+---
 
 ### Black Womxn's Appreciation Night
 
@@ -47,6 +46,8 @@ Read some of my summary finding below!
 :::
 
 In the early 1990s Akanake was founded on the UCSB campus. This organization was an important social network grounded on solidarity and community building within the black womxn community. However, due to the pandemic the organization ended in 2021. In an effort to make this important organization active gain, me along with my fellow officers Ceion Banks and Towela Phiri worked to recharter it at UCSB. This year, we launched a signature event of Akanke's Black Womxn's Appreciation Night! This night consisted of uplifting and celebrating everything related to black wxmen. The event was attended by UCSB students, faculty, staff, and alumni!
+
+---
 
 ### SPHERE: San Joaquin Valley Pollution and Health Environmental Research
 
