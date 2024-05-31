@@ -1,11 +1,19 @@
 ---
 title: "Interests: Learn More About Me!"
 toc: false
+filters:
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
+  css-class: "my-css-class"
 ---
 
 ----
 
-## Music
+## {{< fa radio >}}  Music
 
 ------------------------------------------------------------------------
 
@@ -17,7 +25,7 @@ Music remains a core aspect of my life! Browse below to hear a few of my favorit
 
 ------------------------------------------------------------------------
 
-## Traveling
+## {{< fa plane >}} Traveling
 
 ---
 
@@ -25,6 +33,39 @@ Traveling has always been dream of mine. It remains on my bucket list to visit a
 
 ------------------------------------------------------------------------
 
-## Cooking
+## {{< fa burger >}} Food 
 
 ------------------------------------------------------------------------
+
+A showcase of my favorite foods that I've tried/made this past year!
+
+::: {layout="[[1, 1, 1, 1]]"} 
+![](images-food/yum.JPEG){group="FOOD"
+description="Gumbo served with rice."}
+
+![](images-food/thai.JPEG){group="FOOD"
+description="Yellow Thai curry served with fried chicken and blue rain."}
+
+![](images-food/orzo.JPEG){group="FOOD"
+description="Spicy tomato orzo served with vegetables and Italian meatballs"}
+
+![](images-food/noodle.JPEG){group="yum"
+description="An attempt to recreate a Vietnamese lemongrass beef vermicelli noodle bowl "}
+
+:::
+
+::: {layout="[[1, 1, 1, 1]]"}
+
+![](images-food/mac.JPEG){group="yum"
+description="Two varieties of mac and cheese"}
+
+![](images-food/gumbo.JPEG){group="yum"
+description="Homemade gumbo served with rice."}
+
+![](images-food/corndog.JPEG){group="yum"
+description="Korean corndogs"}
+
+![](images-food/cake.JPEG){group="yum"
+description="A Thai tea crepe cake."}
+
+:::

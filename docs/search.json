@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "interest.html",
-    "href": "interest.html",
+    "objectID": "interest.html#fa-radio-music",
+    "href": "interest.html#fa-radio-music",
     "title": "Interests: Learn More About Me!",
-    "section": "",
-    "text": "Music remains a core aspect of my life! Browse below to hear a few of my favorite songs heading into the summer time!"
-  },
-  {
-    "objectID": "interest.html#music",
-    "href": "interest.html#music",
-    "title": "Interests: Learn More About Me!",
-    "section": "Music",
+    "section": " Music",
     "text": "Music\n\nMusic remains a core aspect of my life! Browse below to hear a few of my favorite songs heading into the summer time!"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "interest.html#fa-plane-traveling",
+    "href": "interest.html#fa-plane-traveling",
+    "title": "Interests: Learn More About Me!",
+    "section": " Traveling",
+    "text": "Traveling\n\nTraveling has always been dream of mine. It remains on my bucket list to visit at least one country in each of the continents! As a starting point, I went to both London and Paris for the first time ! Browse below to discover a few of my favorite moments from my trip!"
+  },
+  {
+    "objectID": "interest.html#fa-burger-food",
+    "href": "interest.html#fa-burger-food",
+    "title": "Interests: Learn More About Me!",
+    "section": " Food",
+    "text": "Food\n\nA showcase of my favorite foods that I’ve tried/made this past year!"
+  },
+  {
+    "objectID": "projects.html#fa-utensils-expansion-of-cultural-foods",
+    "href": "projects.html#fa-utensils-expansion-of-cultural-foods",
     "title": "Projects: So What Have I Been Working On?",
-    "section": "",
-    "text": "Expansion of Cultural Foods\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrowing up with two Nigerian parents, food was essential for me to form important cultural bonds and understand the depths of my identity. In addition, growing up in the Bay Area made me well accustomed to the diverse food cuisines. However, since attending UCSB I have a decline both in my mental and physical well-being due to significant cultural food detachment. These results are not just intrinsic to me, multiple studies have shown that increased cultural food access plays an important part in feelings of community and bonding. As a result, this year I work restlessly as a Sustainable Food Services Intern to educate my peers on cultural food access and try to develop partnerships with stakeholders, such as AS Food Bank on why they should diversify their food selection. In addition, I conducted research on the student body by collecting survey data to understand specific food preferences in the scope of this project!\nRead some of my summary finding below!\n\n\n\n\n\n\n\n\nBlack Womxn’s Appreciation Night\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the early 1990s Akanake was founded on the UCSB campus. This organization was an important social network grounded on solidarity and community building within the black womxn community. However, due to the pandemic the organization ended in 2021. In an effort to make this important organization active gain, me along with my fellow officers Ceion Banks and Towela Phiri worked to recharter it at UCSB. This year, we launched a signature event of Akanke’s Black Womxn’s Appreciation Night! This night consisted of uplifting and celebrating everything related to black wxmen. The event was attended by UCSB students, faculty, staff, and alumni!\n\n\n\nSPHERE: San Joaquin Valley Pollution and Health Environmental Research\n\nDuring the Summer of 2023, I conducted research at UC Berkeley under the Center for Occupational and Environmental Health. I had the privilege of working under Rosemary Castornia to contribute my findings towards the SPHERE: San Joaquin Valley (SJV) Pollution and Health Environmental Research study! During this time, I conducted a literature review into the scope of air monitoring done at the SJV area and expanded my understanding of the various air monitoring techniques for both home and outside studies.\nRead over my final presentation for the study below!"
+    "section": " Expansion of Cultural Foods",
+    "text": "Expansion of Cultural Foods\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrowing up with two Nigerian parents, food was essential for me to form important cultural bonds and understand the depths of my identity. In addition, growing up in the Bay Area made me well accustomed to the diverse food cuisines. However, since attending UCSB I have a decline both in my mental and physical well-being due to significant cultural food detachment. These results are not just intrinsic to me, multiple studies have shown that increased cultural food access plays an important part in feelings of community and bonding. As a result, this year I work restlessly as a Sustainable Food Services Intern to educate my peers on cultural food access and try to develop partnerships with stakeholders, such as AS Food Bank on why they should diversify their food selection. In addition, I conducted research on the student body by collecting survey data to understand specific food preferences in the scope of this project!\nRead some of my summary finding below!"
+  },
+  {
+    "objectID": "projects.html#fa-champagne-glasses-black-womxns-appreciation-night",
+    "href": "projects.html#fa-champagne-glasses-black-womxns-appreciation-night",
+    "title": "Projects: So What Have I Been Working On?",
+    "section": " Black Womxn’s Appreciation Night",
+    "text": "Black Womxn’s Appreciation Night\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the early 1990s Akanake was founded on the UCSB campus. This organization was an important social network grounded on solidarity and community building within the black womxn community. However, due to the pandemic the organization ended in 2021. In an effort to make this important organization active gain, me along with my fellow officers Ceion Banks and Towela Phiri worked to recharter it at UCSB. This year, we launched a signature event of Akanke’s Black Womxn’s Appreciation Night! This night consisted of uplifting and celebrating everything related to black wxmen. The event was attended by UCSB students, faculty, staff, and alumni!"
+  },
+  {
+    "objectID": "projects.html#fa-book-open-sphere-san-joaquin-valley-pollution-and-health-environmental-research",
+    "href": "projects.html#fa-book-open-sphere-san-joaquin-valley-pollution-and-health-environmental-research",
+    "title": "Projects: So What Have I Been Working On?",
+    "section": " SPHERE: San Joaquin Valley Pollution and Health Environmental Research",
+    "text": "SPHERE: San Joaquin Valley Pollution and Health Environmental Research\n\nDuring the Summer of 2023, I conducted research at UC Berkeley under the Center for Occupational and Environmental Health. I had the privilege of working under Rosemary Castornia to contribute my findings towards the SPHERE: San Joaquin Valley (SJV) Pollution and Health Environmental Research study! During this time, I conducted a literature review into the scope of air monitoring done at the SJV area and expanded my understanding of the various air monitoring techniques for both home and outside studies.\nRead over my final presentation for the study below!"
   },
   {
     "objectID": "index.html",
@@ -33,19 +54,5 @@
     "title": "About Me",
     "section": "",
     "text": "Hi there! My name is Ada Chibueze. I am currently a 3rd year attending the University of California, Santa Barbara (UCSB). I am majoring in Environmental Studies (Bachelor’s of Arts) with a concentration in Geography!\nDuring my time here I have prioritized being involved and active in my community and other great organizations. I currently serve as a Educational Opportunity Program (EOP) peer mentor for the African Diasporic Cultural Resource Center (AdCRC) and I am a Sustainable Food Services Fellow under the Sustainability Office. I have also had the pleasure of undertaking the role of President for E.B.O.N.I alongside my fellow chairs Ceion Banks and Towela Phiri. Our organization works to improve the social and mental welfare of black womxn on campus through community building activities!\nWhile this past summer, I had the privilege of conducting research at UC Berkeley under the Center for Occupational and Environmental Health. During my internship, I researched various volatile organic compounds prevalent in San Joaquin Valley - Fresno area.\nOutside of my academics and involvements, I am a huge foodie. So during my free time I love to experiment in the kitchen and try new recipes from different cuisines! I also value spending time with my close friends and family and traveling to new places near and far.\nThis quarter, I have had the opportunity to take ENV S 193 DS, which has allowed me to improve my coding and understanding of data science. At the start of the quarter, I felt quite nervous due to my limited experience coding in R. However, with each week I have been able to grow more confident in my coding ability and undertake different projects (this website included!) to showcase my new found skillset."
-  },
-  {
-    "objectID": "interest.html#traveling",
-    "href": "interest.html#traveling",
-    "title": "Interests: Learn More About Me!",
-    "section": "Traveling",
-    "text": "Traveling\n\nTraveling has always been dream of mine. It remains on my bucket list to visit at least one country in each of the continents! As a starting point, I went to both London and Paris for the first time ! Browse below to discover a few of my favorite moments from my trip!"
-  },
-  {
-    "objectID": "interest.html#cooking",
-    "href": "interest.html#cooking",
-    "title": "Interests: Learn More About Me!",
-    "section": "Cooking",
-    "text": "Cooking"
   }
 ]

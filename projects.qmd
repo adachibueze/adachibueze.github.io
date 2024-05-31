@@ -12,7 +12,7 @@ lightbox:
 ---
 ---
 
-### Expansion of Cultural Foods
+## {{< fa utensils >}} Expansion of Cultural Foods
 
 ---
 
@@ -31,7 +31,7 @@ Read some of my summary finding below!
 ![](reports/summary_findings.pdf){width=100% height=700px}
 ---
 
-### Black Womxn's Appreciation Night
+## {{< fa champagne-glasses >}} Black Womxn's Appreciation Night
 
 ---
 
@@ -49,7 +49,7 @@ In the early 1990s Akanake was founded on the UCSB campus. This organization was
 
 ---
 
-### SPHERE: San Joaquin Valley Pollution and Health Environmental Research
+## {{< fa book-open >}} SPHERE: San Joaquin Valley Pollution and Health Environmental Research
 
 ---
 
