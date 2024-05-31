@@ -1,3 +1,71 @@
 ---
-title: "Interests"
+title: "Interests: Learn More About Me!"
+toc: false
+filters:
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
+  css-class: "my-css-class"
 ---
+
+----
+
+## {{< fa radio >}}  Music
+
+------------------------------------------------------------------------
+
+Music remains a core aspect of my life! Browse below to hear a few of my favorite songs heading into the summer time!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3uPwFdTfjX5sO2q4wloddq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+------------------------------------------------------------------------
+
+## {{< fa plane >}} Traveling
+
+---
+
+Traveling has always been dream of mine. It remains on my bucket list to visit at least one country in each of the continents! As a starting point, I went to both London and Paris for the first time ! Browse below to discover a few of my favorite moments from my trip!
+
+------------------------------------------------------------------------
+
+## {{< fa burger >}} Food 
+
+------------------------------------------------------------------------
+
+A showcase of my favorite foods that I've tried/made this past year!
+
+::: {layout="[[1, 1, 1, 1]]"} 
+![](images-food/yum.JPEG){group="FOOD"
+description="Gumbo served with rice."}
+
+![](images-food/thai.JPEG){group="FOOD"
+description="Yellow Thai curry served with fried chicken and blue rain."}
+
+![](images-food/orzo.JPEG){group="FOOD"
+description="Spicy tomato orzo served with vegetables and Italian meatballs"}
+
+![](images-food/noodle.JPEG){group="yum"
+description="An attempt to recreate a Vietnamese lemongrass beef vermicelli noodle bowl "}
+
+:::
+
+::: {layout="[[1, 1, 1, 1]]"}
+
+![](images-food/mac.JPEG){group="yum"
+description="Two varieties of mac and cheese"}
+
+![](images-food/gumbo.JPEG){group="yum"
+description="Homemade gumbo served with rice."}
+
+![](images-food/corndog.JPEG){group="yum"
+description="Korean corndogs"}
+
+![](images-food/cake.JPEG){group="yum"
+description="A Thai tea crepe cake."}
+
+:::
