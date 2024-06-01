@@ -31,6 +31,21 @@ Music remains a core aspect of my life! Browse below to hear a few of my favorit
 
 Traveling has always been dream of mine. It remains on my bucket list to visit at least one country in each of the continents! As a starting point, I went to both London and Paris for the first time ! Browse below to discover a few of my favorite moments from my trip!
 
+
+::: {layout="[[1, 1, 1, 1]]"} 
+![](images-europe/mona.JPEG){group="trip"
+description="The Mona Lisa!"}
+
+![](images-europe/lourve.JPEG){group="trip"
+description="Exploring Napoleon's Apartment's."}
+
+![](images-europe/french.JPEG){group="trip"
+description="Try French cuisine for the first time."}
+
+![](images-europe/big_ben.JPEG){group="trip"
+description="Big Ben!"}
+:::
+
 ------------------------------------------------------------------------
 
 ## {{< fa burger >}} Food 
