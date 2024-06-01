@@ -41,7 +41,7 @@ A showcase of my favorite foods that I've tried/made this past year!
 
 ::: {layout="[[1, 1, 1, 1]]"} 
 ![](images-food/yum.JPEG){group="FOOD"
-description="Gumbo served with rice."}
+description="Homemade Tostadas."}
 
 ![](images-food/thai.JPEG){group="FOOD"
 description="Yellow Thai curry served with fried chicken and blue rain."}
@@ -57,15 +57,15 @@ description="An attempt to recreate a Vietnamese lemongrass beef vermicelli nood
 ::: {layout="[[1, 1, 1, 1]]"}
 
 ![](images-food/mac.JPEG){group="yum"
-description="Two varieties of mac and cheese"}
+description="Two varieties of mac and cheese."}
 
 ![](images-food/gumbo.JPEG){group="yum"
-description="Homemade gumbo served with rice."}
+description="Homemade Gumbo."}
 
 ![](images-food/corndog.JPEG){group="yum"
-description="Korean corndogs"}
+description="Korean corn dogs."}
 
 ![](images-food/cake.JPEG){group="yum"
-description="A Thai tea crepe cake."}
+description="Thai tea crepe cake."}
 
 :::

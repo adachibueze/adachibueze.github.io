@@ -16,7 +16,7 @@ lightbox:
 
 ---
 
-::: {layout="[[1, 1]]"} 
+::: {layout="[[1], [1]]"} 
 
 ![](images-SFSS/image_91.JPG){group="FF" description="Survey Collection, Spring 2024."  class="space-right"}
 
